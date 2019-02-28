@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div className="main-container">
       <HeaderContainer />
-      {/* <CardContainer /> */}
+      <CardContainer />
       {/* <Footer /> */}
     </div>
   );
