@@ -2,6 +2,7 @@
 .card-container {
   width: 100%;
   border: 5px solid blue;
+  margin-top: 10px;
 }
 
 .banner-img {
@@ -9,5 +10,31 @@
   overflow: hidden; */
   background-image: url("https://tk-assets.lambdaschool.com/fcd75197-7d12-46ec-bc9e-4130f34822fa_reactbackground.png");
   border: 3px solid hotpink;
-  height: 400px;
+  height: 350px;
+  background-position: center;
+  border-radius: 10px;
+}
+
+.card-container {
+  margin-left: 85px;
+  width: 565px;
+}
+
+.card-container a {
+  text-decoration: none;
+  color: #222;
+}
+
+.card-content h2 {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.card-content p {
+  padding: 0 0 10px 10px;
+}
+
+.card-content p:last-child {
+  color: lightgrey;
 }
