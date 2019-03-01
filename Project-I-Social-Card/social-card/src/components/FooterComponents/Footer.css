@@ -1,0 +1,7 @@
+.footer img {
+  padding: 10px 0 5px 85px;
+}
+
+.footer img:first-child {
+  margin-left: 15px;
+}
