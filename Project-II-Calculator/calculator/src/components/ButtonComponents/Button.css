@@ -15,6 +15,11 @@
 
 .operation-btn {
   background-color: rgb(168, 11, 11);
+  color: #fff;
+}
+
+.clicked {
+  box-shadow: inset 5px 5px 5px 5px lightgrey;
 }
 
 /* .number-buttons {
