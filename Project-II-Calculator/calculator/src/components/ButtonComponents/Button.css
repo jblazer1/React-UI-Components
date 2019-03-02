@@ -1,0 +1,40 @@
+.btn-styles {
+  display: flex;
+  border: 1px solid lightslategray;
+  width: 110px;
+  height: 110px;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.large-btn {
+  width: 334px;
+}
+
+.operation-btn {
+  background-color: rgb(168, 11, 11);
+}
+
+/* .number-buttons {
+  display: flex;
+  border: 1px solid lightslategray;
+  width: 110px;
+  height: 110px;
+  justify-content: center;
+  align-items: center;
+}
+
+.number-buttons .large-buttons {
+  width: 330px;
+}
+
+.action-buttons {
+  display: flex;
+  border: 1px solid lightslategray;
+  width: 110px;
+  height: 110px;
+  justify-content: center;
+  align-items: center;
+} */
